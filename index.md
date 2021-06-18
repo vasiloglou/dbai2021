@@ -30,12 +30,12 @@ Relational data represents the vast majority of data present in the enterprise w
 - Transparency and Accountability of Machine-Assisted Decision Making
 - Impact of Data Quality and Data Preprocessing on the Fairness of ML Predictions
 
-**Submission**
+**Submission:**
 Submissions can be short papers (4 pages) or long papers (up to 10 pages, plus unlimited references). Authors are requested to prepare submissions following the ACM proceedings format. Please use the latest ACM paper format (last update 11/2020). AI&DB is a single-blind workshop, authors must include their names and affiliations on the manuscript cover page.
 Submission Website: To be announce upon acceptance of the workshop
 Inclusion and Diversity in Writing: http://2021.sigmod.org/calls_papers_inclusion_and_diversity.shtml
 
-**Conflicts**
+**Conflicts:**
 Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference wiil not be accepted in the workshop, including as part of an invited talk..
 
 **Important Dates**
@@ -61,7 +61,7 @@ All questions about submissions should be emailed to TBD
 - [Nantia Makrynioti](http://nantiamakrynioti.com/)	(Centrum Wiskunde & Informatica)
 - [Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/)  (Michigan State University)  		
 - [Kirk Pruhs](https://people.cs.pitt.edu/~kirk/)	(University of Pitsburg)
-- [Zenna Tavares] (http://www.zenna.org/) (MIT)
+- [Zenna Tavares](http://www.zenna.org/) (MIT)
 
 ## Links to similar workshops:##
 
